@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "rami beji mos",
+        "email": "ramibeji@gmail.com",
+        "phone": "+216789654",
+        "address": "Mahdia,center",
+        "created_at": "2023-12-06 15:21:23"
+    },
+    {
+        "id": 2,
+        "name": "chay",
+        "email": "chaymomamestiri@gmail.com",
+        "phone": "+216963159",
+        "address": "Mahdia,center",
+        "created_at": "2023-12-06 15:42:14"
+    }
+]
